@@ -8,3 +8,5 @@
 主要包含Qt5.9/5.12两个版本下的源码，以及书中的彩图。
 
 算是做个github上的备份，官方下载还得注册也是麻烦。。
+
+Update 2023/7/19: QT6 Version [Here](https://github.com/RivTian/Qt6_Cplusplus-DevelopmentTutorialCode/tree/main)
